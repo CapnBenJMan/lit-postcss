@@ -1,0 +1,28 @@
+{
+	"name": "lit-postcss",
+	"displayName": "lit-postcss",
+	"description": "Provides syntax highlighting for inline postcss snippets in lit components",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"grammars": [
+			
+			{
+				"injectTo": [
+					"source.ts"
+				],
+				"scopeName": "styled",
+				"path": "./syntaxes/test.tmLanguage.json",
+				"embeddedLanguages": {
+					"source.css.scss": "postcss",
+					"meta.embedded.line.ts": "typescript"
+				}
+			}
+		]
+	}
+}

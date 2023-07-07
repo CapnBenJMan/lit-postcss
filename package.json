@@ -6,6 +6,10 @@
 	"engines": {
 		"vscode": "^1.79.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CapnBenJMan/lit-postcss.git"
+	},
 	"categories": [
 		"Programming Languages"
 	],

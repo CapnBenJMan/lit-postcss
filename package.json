@@ -1,6 +1,7 @@
 {
 	"name": "lit-postcss",
 	"displayName": "lit-postcss",
+	"publisher": "CaptainBenJMan",
 	"description": "Provides syntax highlighting for inline postcss snippets in lit components",
 	"version": "0.0.1",
 	"engines": {

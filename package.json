@@ -21,7 +21,7 @@
 				"injectTo": [
 					"source.ts"
 				],
-				"scopeName": "styled",
+				"scopeName": "meta.embedded.block.postcss",
 				"path": "./syntaxes/test.tmLanguage.json",
 				"embeddedLanguages": {
 					"source.css.scss": "postcss",

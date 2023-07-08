@@ -1,5 +1,5 @@
 {
-	"scopeName": "styled",
+	"scopeName": "meta.embedded.block.postcss",
 	"foldingStartMarker": "\\{$",
 	"foldingStopMarker": "\\}$",
 	"injectionSelector": "L:source -comment -string",
